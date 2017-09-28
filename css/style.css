@@ -1,0 +1,152 @@
+body{
+	
+}
+body ul{
+	list-style: none;
+}
+body h4{
+	color: #B9ADAD;
+	font-weight: bold;
+}
+body h3{
+	color: white;
+	font-weight: bold;
+}
+/*header*/
+#header{
+
+}
+#header .title{
+
+}
+#header .title span{
+	display: inline-block;
+	font-size: 25px;
+	margin-left: 10px;
+	color: #B9ADAD;
+	font-weight: bold;
+}
+#header .title .item{
+	padding: 15px;
+	text-align: center;
+}
+#header .title .row{
+	
+}
+#header .menu{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #00D6C0;
+	font-weight: bold;
+	color: white;
+}
+#header .menu a{
+	padding:10px;
+	color: white;
+	margin-right: 15px;
+}
+#header .banner_slide a{
+}
+#header .featured_product img{
+	width: 120px;
+	height: 120px;
+	text-align: center;
+}
+#header .product_slide {
+/*	margin: auto;
+    width:80%;
+    padding: 10px;*/
+
+}
+#header .product_slide img{
+	width: 120px;
+	height: 120px
+}
+#header .product_slide .row{
+	margin: auto;
+	width: 80%;
+}
+#header .product_slide .child{
+	text-align: center;
+	padding: 10px;
+}
+/*content*/
+#content{
+
+}
+#content .featured_product{
+
+}
+#content .featured_product .items{
+	margin: auto;
+	width: 73%;
+	margin-top: 30px;
+}
+#content .featured_product .item{
+	border: 1px solid #D1C6C6;
+	border-bottom: 5px solid #00CA96;
+	margin: 0px 30px 30px 30px;
+	width: 250px;
+	height: 275px;
+	float:left;
+	padding: 25px;
+	padding-left: 15px;
+	text-align: center;
+
+}
+#content .featured_product .title{
+	background-color: #00C8B5;
+	color: white;
+	padding-left: 50px;
+	font-weight: bold;;
+	font-size: 22px;
+	vertical-align: middle;
+}
+
+#content .featured_product span{
+	display: inline-block;
+	margin-right: 5px;
+	color: #B9ADAD;
+	font-weight: bold;
+	font-size: 24px;
+}
+/*footer*/
+#footer{
+
+}
+#footer .general {
+	padding-bottom: 20px;
+	background-color: #00C9B4;
+	color: white;
+	font-weight: bold;
+}
+#footer .general .container-fluid{
+	margin: auto;
+	width: 75%;
+	text-align: center;
+}
+#footer .general .container-fluid .item ul{
+	
+}
+#footer .general .container-fluid .item ul li{
+	text-align: left;
+}
+
+#footer .copyright{
+	padding: 5px;
+	background-color: #00AD9A;
+	text-align: center;
+	color: white;
+	font-weight: bold
+}
+.clear{
+	clear: both;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+	filter:none !important; /* Giúp lọc các thành phần trong một nhóm các thành phần giống nhau.*/
+}
+body .btn{
+	font-weight: bold;
+}
